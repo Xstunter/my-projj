@@ -1,2 +1,6 @@
 
+<<<<<<< HEAD
 321 dima gandon
+=======
+321 dima 4mo
+>>>>>>> 1_man
